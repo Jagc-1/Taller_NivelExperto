@@ -284,10 +284,10 @@ def report_data():
             for camper in campers:
                 if camper['promedio'] < 60:
                     print(camper)
-        elif opcion == '5':
-            print("Listar campers y entrenador asociados a una ruta de entrenamiento:")
-        elif opcion == '6':
-            print("Mostrar cuántos campers perdieron y aprobaron cada módulo:")
+        # elif opcion == '5':
+        #     print("Listar campers y entrenador asociados a una ruta de entrenamiento:")
+        # elif opcion == '6':
+        #     print("Mostrar cuántos campers perdieron y aprobaron cada módulo:")
         elif opcion == '7':
             print("Saliendo del menú.")
             break
