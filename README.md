@@ -1,4 +1,4 @@
-z# Python
+# Python
 
 Este es un programa que llevar el seguimiento académico de todos los campers que se encuentran matriculados en el programa intensivo de programación, cuenta con listas, diccionarios y módulos, funciones, variables, librerías, un menú para poder elegir la opción que desee.
 
